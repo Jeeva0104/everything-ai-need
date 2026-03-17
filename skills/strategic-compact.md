@@ -3,7 +3,7 @@ name: strategic-compact
 invoke: strategic-compact
 description: Strategic Compact
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Strategic Compact

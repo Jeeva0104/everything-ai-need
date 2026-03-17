@@ -3,7 +3,7 @@ name: content-engine
 invoke: content-engine
 description: Content Engine for Rust
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Content Engine for Rust

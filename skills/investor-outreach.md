@@ -3,7 +3,7 @@ name: investor-outreach
 invoke: investor-outreach
 description: Investor Outreach
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Investor Outreach

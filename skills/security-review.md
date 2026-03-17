@@ -3,7 +3,7 @@ name: security-review
 invoke: security-review
 description: Security Review Checklist
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Security Review Checklist

@@ -3,7 +3,7 @@ name: deep-research
 invoke: deep-research
 description: Deep Research for Rust
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Deep Research for Rust

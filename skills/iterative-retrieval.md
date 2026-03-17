@@ -3,7 +3,7 @@ name: iterative-retrieval
 invoke: iterative-retrieval
 description: Iterative Retrieval
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Iterative Retrieval

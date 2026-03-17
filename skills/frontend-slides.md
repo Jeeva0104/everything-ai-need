@@ -3,7 +3,7 @@ name: frontend-slides
 invoke: frontend-slides
 description: HTML Presentation Builder
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # HTML Presentation Builder

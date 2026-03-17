@@ -3,7 +3,7 @@ name: tdd-workflow
 invoke: tdd-workflow
 description: TDD Workflow
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # TDD Workflow

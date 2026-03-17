@@ -3,7 +3,7 @@ name: continuous-learning
 invoke: continuous-learning
 description: Brief description of when this applies
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Continuous Learning for Rust

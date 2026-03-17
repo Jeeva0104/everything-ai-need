@@ -3,7 +3,7 @@ name: rust
 invoke: rust
 description: Rust Development Guide
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Rust Development Guide

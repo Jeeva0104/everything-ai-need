@@ -3,7 +3,7 @@ name: crosspost
 invoke: crosspost
 description: Crosspost
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Crosspost

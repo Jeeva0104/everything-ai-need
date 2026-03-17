@@ -3,7 +3,7 @@ name: market-research
 invoke: market-research
 description: Market Research
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Market Research

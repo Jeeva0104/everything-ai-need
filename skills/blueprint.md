@@ -3,7 +3,7 @@ name: blueprint
 invoke: blueprint
 description: Project Blueprints
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Project Blueprints

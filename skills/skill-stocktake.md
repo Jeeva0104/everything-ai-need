@@ -3,7 +3,7 @@ name: skill-stocktake
 invoke: skill-stocktake
 description: Skill Stocktake
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Skill Stocktake

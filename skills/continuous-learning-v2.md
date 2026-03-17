@@ -3,7 +3,7 @@ name: continuous-learning-v2
 invoke: continuous-learning-v2
 description: Instinct-Based Learning (v2)
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Instinct-Based Learning (v2)

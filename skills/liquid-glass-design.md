@@ -3,7 +3,7 @@ name: liquid-glass-design
 invoke: liquid-glass-design
 description: UI Design System
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # UI Design System

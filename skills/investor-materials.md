@@ -3,7 +3,7 @@ name: investor-materials
 invoke: investor-materials
 description: Investor Materials
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Investor Materials

@@ -3,7 +3,7 @@ name: article-writing
 invoke: article-writing
 description: Technical Writing for Rust
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Technical Writing for Rust

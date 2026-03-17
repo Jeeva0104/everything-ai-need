@@ -3,7 +3,7 @@ name: frontend-patterns
 invoke: frontend-patterns
 description: Frontend Patterns for Rust Web Apps
 user-invocable: true
-origin: rust-claude-code
+origin: everything-ai-need
 ---
 
 # Frontend Patterns for Rust Web Apps
